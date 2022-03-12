@@ -2,7 +2,7 @@ import React from 'react'
 import { mapItems } from "../constants";
 
 const NavigationDots = ({ active }) => {
-    console.log(active);
+
     return (
         <div className='app__navigation'>
             {

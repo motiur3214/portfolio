@@ -17,7 +17,7 @@ const scaleVariants = {
 }
 
 const Header = () => {
-  const circleImages = [images.flutter, images.redux, images.sass]
+  const circleImages = [images.typeScript, images.react, images.laravel];
 
   return (
     <div className='app__header app__flex'>

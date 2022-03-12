@@ -2,8 +2,7 @@ import React, { useState } from 'react'
 import { HiMenuAlt4, HiX } from 'react-icons/hi'
 import { motion } from "framer-motion";
 
-import { mapItems } from "../constants";
-import { images } from "../../constants";
+import { images, mapItems } from "../../constants";
 import './Navbar.scss'
 
 const Navbar = () => {
